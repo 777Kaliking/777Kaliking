@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Diploma in Computer Science and Engineering<br>💬 Ask me about IoT , arduino ,Raspberry Pi ,IoT based automation<br>📫 How to reach me Ronitpaikray6@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/777Kaliking<br>⚡ Fun fact  ☕️ I'm convinced 90% of my code is powered by caffeine. ⚡️<br>
+🌱 I’m currently learning Diploma in Computer Science and Engineering<br>💬 Ask me about IoT , arduino ,Raspberry Pi ,IoT based automation<br>📫 How to reach me Ronitpaikray6@gmail.com ,https://rp7.carrd.co<br>👨‍💻 All of my projects are available at https://github.com/777Kaliking<br>⚡ Fun fact  ☕️ I'm convinced 90% of my code is powered by caffeine. ⚡️<br>
 
 
 ## 🌐 Socials:
